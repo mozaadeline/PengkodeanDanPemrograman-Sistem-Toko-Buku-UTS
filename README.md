@@ -19,6 +19,9 @@ LOGIN SEBAGAI ADMIN : http://localhost/TOKO-ONLINE-ROTI-master/admin
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/e2e9fe7c-e17a-4ea0-ab09-437cbc5a67ea)
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/cc39e9cc-f823-441f-9c81-fa94bbc10135)
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/6e9d5e03-01cb-4a5c-a970-72d0a62244c5)
+![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/af052de5-587e-49b0-95dd-65e34a1da972)
+![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/83b27737-e2cf-46a0-9197-2bd93973e10c)
+
 
 
 # PROGRAM SETELAH DIMODIFIKASI
@@ -31,6 +34,9 @@ LOGIN SEBAGAI ADMIN : http://localhost/TOKO-ONLINE-ROTI-master/admin
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/b4238790-482c-4eb4-a063-baa373963bb3)
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/c2c44cb3-6ce1-4fd0-b53d-d4c0b43e4181)
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/8d405de5-45ea-44ef-9b1f-9ecdd35a497d)
+![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/9bbfe476-0620-416d-8fd4-1b499b05cda0)
+![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/1b94a53c-4f3b-40a6-a999-182ac04c3e0d)
+
 
 # ERD SISTEM TOKO BUKU
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/a3dbeaad-f3be-4668-bac4-70869a289daa)
