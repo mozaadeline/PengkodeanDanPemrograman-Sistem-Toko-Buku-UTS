@@ -32,7 +32,7 @@ LOGIN SEBAGAI ADMIN : http://localhost/TOKO-ONLINE-ROTI-master/admin
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/c2c44cb3-6ce1-4fd0-b53d-d4c0b43e4181)
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/8d405de5-45ea-44ef-9b1f-9ecdd35a497d)
 
-ERD SISTEM TOKO BUKU
+# ERD SISTEM TOKO BUKU
 ![image](https://github.com/mozaadeline/PengkodeanDanPemrograman-Sistem-Toko-Buku-UTS/assets/167201984/a3dbeaad-f3be-4668-bac4-70869a289daa)
 
 
